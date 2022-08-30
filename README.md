@@ -7,9 +7,9 @@ Nombre: Tituaña Hidalgo Nayely Lisbeth
 NRC: 7318
 
 NFORME DE TAREA
-1.- OBJETIVOS
+# 1.- OBJETIVOS
 
-Objetivo General
+# Objetivo General
 
 Desarrollar mapas mentales donde se explique los conceptos básicos de cada capítulo.
 
@@ -21,7 +21,7 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
 
-Objetivos específicos.
+# Objetivos específicos.
 
 Resolver los problemas planteados dentro de cada capítulo.
 
@@ -31,7 +31,7 @@ Desarrollar mapas mentales donde se explique los conceptos básicos de cada cap�
 
 
 
-2.- MARCO TEÓRICO
+# 2.- MARCO TEÓRICO
 
 CAPITULO 17:CIRCUITOS RLC Y RESONANCIA
 
@@ -39,4 +39,4 @@ CAPITULO 17:CIRCUITOS RLC Y RESONANCIA
 
 CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 
-3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
