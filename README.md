@@ -44,3 +44,27 @@ CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 ![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/Imagen4.png)
 
 # 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
