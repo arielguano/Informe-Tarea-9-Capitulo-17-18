@@ -11,15 +11,14 @@ NFORME DE TAREA
 
 # Objetivo General
 
+Analiizar  criticamente  a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente
 Desarrollar mapas mentales donde se explique los conceptos básicos de cada capítulo.
 
 Resolver los problemas planteados dentro de cada capítulo.
 
 Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
-Analizar y resolver problemas utilizando los conocimientos de los capítulos respectivos a la corriente y voltaje de forma alterna y como funcionan los capacitores,
-
-usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
+s.
 
 # Objetivos específicos.
 
@@ -82,6 +81,8 @@ CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 https://youtu.be/l4r2pIWPiuY
 
 # 5. Conclusiones:
+En este informe definimos lo que son los circuitos RCL  cómo funcionan en diferentes áreas. Ayudandonos a mejorar cieros parámetros. 
+
 Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
 
 Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
