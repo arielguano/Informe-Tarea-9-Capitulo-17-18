@@ -35,8 +35,12 @@ Desarrollar mapas mentales donde se explique los conceptos básicos de cada cap�
 
 CAPITULO 17:CIRCUITOS RLC Y RESONANCIA
 
-CAPITULO 17:CIRCUITOS RLC Y RESONANCIA
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/Imagen1.png)
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/Imagen2.png)
 
 CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/Imagen3.png)
 
 # 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
