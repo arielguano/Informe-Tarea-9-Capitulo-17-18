@@ -45,26 +45,34 @@ CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 
 # 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-01.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-02.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-03.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-04.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-05.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-06.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-07.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-08.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-09.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-10.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-11.png)
 
-![image]()
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-12.png)
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-13.png)
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-14.png)
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-15.png)
+
+![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-16.png)
