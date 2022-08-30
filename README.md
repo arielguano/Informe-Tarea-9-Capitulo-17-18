@@ -76,3 +76,15 @@ CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 ![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-15.png)
 
 ![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-16.png)
+
+4. Video:
+https://www.youtube.com/watch?v=MPGkcueCxJI
+
+5. Conclusiones:
+Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
+
+Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
+
+6. Bibliografia:
+7. 
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
