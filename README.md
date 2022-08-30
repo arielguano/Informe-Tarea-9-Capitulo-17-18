@@ -78,7 +78,8 @@ CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 ![image](https://github.com/arielguano/Informe-Tarea-9-Capitulo-17-18/blob/main/deber%208-16.png)
 
 4. Video:
-https://www.youtube.com/watch?v=MPGkcueCxJI
+
+https://youtu.be/l4r2pIWPiuY
 
 5. Conclusiones:
 Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
