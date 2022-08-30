@@ -22,7 +22,7 @@ s.
 
 # Objetivos específicos.
 
-Resolver los problemas planteados dentro de cada capítulo.
+Determinar la impedancia de un circuito RLC en serie y paralelo.
 
 Comprender como aplicar los conceptos dentro de los ejercicios prácticos.
 
